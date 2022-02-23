@@ -47,3 +47,5 @@ elif result == 2 or result == -1:
     print("You lose!")
 elif result == 0:
     print("Tie!")
+else:
+    print("You typed an invalid number. You lose!")
